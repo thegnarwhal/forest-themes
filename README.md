@@ -1,4 +1,4 @@
-## Semantic-UI Forest Themes
+## Semantic-UI HF Theme
 
 [![CircleCI](https://circleci.com/gh/semantic-ui-forest/forest-themes.svg?style=svg)](https://circleci.com/gh/semantic-ui-forest/forest-themes)
 
